@@ -1,0 +1,15 @@
+{
+  "name": "pig-latin-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool that converts text to Pig Latin",
+  "main": "src/index.js",
+  "bin": {
+    "pig-latin": "./src/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["pig-latin", "cli", "converter"],
+  "license": "MIT"
+}

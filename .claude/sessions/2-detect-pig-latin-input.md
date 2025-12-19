@@ -41,4 +41,5 @@ Add detection to identify when input text is already in Pig Latin format, preven
 - [x] Add containsPigLatin check for text
 - [x] Modify prompt loop to warn and skip
 - [x] Test the implementation
-- [ ] Commit changes
+- [x] Commit changes
+- [ ] Create PR

@@ -1,8 +1,9 @@
 {
   "onus": {
     "commitFormat": {
-      "issue": "{number} - {verb} {description}",
-      "chore": "chore - {description}"
+      "issue": "{type}: #{number} {description}",
+      "chore": "chore: {description}",
+      "spec": "https://www.conventionalcommits.org/en/v1.0.0/"
     },
     "branchFormat": {
       "issue": "issue/{type}-{number}/{slug}",

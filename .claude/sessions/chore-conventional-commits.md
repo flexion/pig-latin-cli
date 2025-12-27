@@ -27,7 +27,11 @@ Need to integrate this into the development workflow.
   - Added spec URL for reference
 - 2025-12-27: Added spec URL to rule file
 - 2025-12-27: Committed and created PR #5
+- 2025-12-27: PR #5 merged
+- 2025-12-27: Decision to track `.claude/context/conventional_commits.md` as tier-2 reference
+- 2025-12-27: Committed context file and created PR #6
 
 ## Next Steps
-1. Merge PR #5
-2. Consider whether `.claude/context/conventional_commits.md` should be tracked
+1. ~~Merge PR #5~~ ✓
+2. ~~Consider whether `.claude/context/conventional_commits.md` should be tracked~~ → Decision: track it
+3. ~~Create PR for context file addition~~ → PR #6 created

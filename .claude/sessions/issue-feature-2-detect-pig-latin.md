@@ -39,5 +39,5 @@ Add detection to identify when input text is already in Pig Latin format, preven
 - `package.json` (modified) - Added test scripts
 
 ## Next Steps
-1. Commit changes
-2. Create PR
+1. ~~Commit changes~~ Done
+2. ~~Create PR~~ PR #7 created

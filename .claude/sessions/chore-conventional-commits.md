@@ -26,7 +26,8 @@ Need to integrate this into the development workflow.
   - Changed `{verb}` → `{type}` for direct mapping to conventional commits terminology
   - Added spec URL for reference
 - 2025-12-27: Added spec URL to rule file
+- 2025-12-27: Committed and created PR #5
 
 ## Next Steps
-1. Commit changes
-2. Consider deleting or archiving the verbose `.claude/context/conventional_commits.md`
+1. Merge PR #5
+2. Consider whether `.claude/context/conventional_commits.md` should be tracked
